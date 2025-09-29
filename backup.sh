@@ -2,7 +2,7 @@
 
 <<Comment
  This IsA Shell Script 
- It Can take Periodic Backup
+ It Can take Periodic Backup using Cron
 
   eg.
  ./backup.sh <source> <dest>
